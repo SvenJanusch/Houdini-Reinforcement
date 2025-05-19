@@ -10,4 +10,23 @@ Houdini Reinforcement is a collection of Houdini projects, offering complete pro
     </tr>
 </table>
 
+## Foam Map
+<table border="0" cellspacing="0" cellpadding="0" style="background-color:rgba(0, 0, 0, 0);">
+    <tr>
+    	<td width="200" height="200"><img src="https://github.com/SvenJanusch/Houdini-Reinforcement/blob/main/FoamMap/FoamMap.png" width="200" height="300"></td>
+   		<td style="vertical-align: top;">The Foam Map Houdini project is a procedural tool designed to generate seamless foam textures that can be used to render foam in real-time. It allows interactive control over various attributes of the foam, such as bubble sizes and distribution. The foam map can be previewed within Houdini or exported as images. Supported image types include Height, Bubble Size, Bubble-Radius, etc.. A detailed description, tutorials and results are available on my <a href="https://svenjanusch.wordpress.com/houdini-reinforcement/">blog</a>
+        </td>
+    </tr>
+</table>
+
+## Cliff Generator
+<table border="0" cellspacing="0" cellpadding="0" style="background-color:rgba(0, 0, 0, 0);">
+    <tr>
+    	<td width="200" height="200"><img src="https://github.com/SvenJanusch/Houdini-Reinforcement/blob/main/CliffGenerator/CliffGenerator.png" width="200" height="300"></td>
+   		<td style="vertical-align: top;">The Cliff Generator Houdini project is a procedural tool designed to generate cliff meshes for a exiting height field. It allows control over various attributes to change the appearance of the cliffs. A detailed description, tutorials and results are available on my <a href="https://svenjanusch.wordpress.com/houdini-reinforcement/">blog</a>
+        </td>
+    </tr>
+</table>
+
+
 
