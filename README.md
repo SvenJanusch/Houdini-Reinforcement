@@ -28,5 +28,15 @@ Houdini Reinforcement is a collection of Houdini projects, offering complete pro
     </tr>
 </table>
 
+## Caustic Map
+<table border="0" cellspacing="0" cellpadding="0" style="background-color:rgba(0, 0, 0, 0);">
+    <tr>
+    	<td width="200" height="200"><img src="https://github.com/SvenJanusch/Houdini-Reinforcement/blob/main/CausticMap/CausticMap.jpg" width="200" height="200"></td>
+   		<td style="vertical-align: top;">The Caustic Map project is a procedural tool designed to generate seamless, animated caustic maps in Houdini. A detailed description, tutorials and results are available on my <a href="https://svenjanusch.wordpress.com/houdini-reinforcement/">blog</a>
+        </td>
+    </tr>
+</table>
+
+
 
 
