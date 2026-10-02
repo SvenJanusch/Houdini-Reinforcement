@@ -28,7 +28,7 @@ Houdini Reinforcement is a collection of Houdini projects, offering complete pro
     </tr>
 </table>
 
-## Cliff Generator
+## Caustic Map
 <table border="0" cellspacing="0" cellpadding="0" style="background-color:rgba(0, 0, 0, 0);">
     <tr>
     	<td width="200" height="200"><img src="https://github.com/SvenJanusch/Houdini-Reinforcement/blob/main/CausticMap/CausticMap.png" width="200" height="200"></td>
